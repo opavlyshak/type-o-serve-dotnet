@@ -1,0 +1,19 @@
+_ReSharper*
+App_Data/
+[Bb]in/
+obj/
+packages/
+TestResults
+*.user
+*.patch
+*.[Cc]ache
+*.orig
+*.suo
+*.log
+*.resources
+*.csproj.DotSettings
+*.ncrunchsolution
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
